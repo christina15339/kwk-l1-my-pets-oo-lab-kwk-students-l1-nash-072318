@@ -1,4 +1,8 @@
 class Owner
-  # code goes here
+ def initilize 
+   end 
+   @home = name 
+   @mood = 
+   # code goes here
 
  end
